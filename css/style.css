@@ -1,0 +1,19 @@
+.text {
+  font-family: 'Font Name', serif;
+}
+
+#port {
+  padding: 10px 50px;
+  color: #fff;
+  background-color: #26a69a;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
